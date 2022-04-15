@@ -99,6 +99,8 @@ Os problemas vividos pelos idosos e as soluções que encontramos foram definido
 
 ## Personas e Mapas de Empatia
 
+Essas personas representam potenciais clientes que fazem parte de nosso público alvo. 
+
 ### Gertrudes
 ![PersonaGertrudes](imaages/../images/PersonaGertrudes_TIAW.jpg)
 ![MapaEmpatiaGertrudes](imaages/../images/MapaEmpatiaGertrudes_TIAW.jpg)
