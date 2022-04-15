@@ -99,32 +99,17 @@ Os problemas vividos pelos idosos e as soluções que encontramos foram definido
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+### Gertrudes
+![PersonaGertrudes](imaages/../images/PersonaGertrudes_TIAW.jpg)
+![MapaEmpatiaGertrudes](imaages/../images/MapaEmpatiaGertrudes_TIAW.jpg)
 
+### Clotilde
+![PersonaClotilde](imaages/../images/PersonaClotilde_TIAW.jpg)
+![MapaEmpatiaClotilde](imaages/../images/MapaEmpatiaClotilde_TIAW.jpg)
 
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
-> 
-> **Exemplo de Persona**
-> 
-> ![Exemplo de Persona](imaages/../images/persona.png)
-
-
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
+### Paulo
+![PersonaPaulo](imaages/../images/PersonaPaulo_TIAW.jpg)
+![MapaEmpatiaPaulo](imaages/../images/MapaEmpatiaPaulo_TIAW.jpg)
 
 ## Histórias de Usuários
 
