@@ -121,7 +121,7 @@ Os problemas vividos pelos idosos e as soluções que encontramos foram definido
 > **Exemplo de Persona**
 > 
 > ![Exemplo de Persona](imaages/../images/persona.png)
-> ![User Flow](https://user-images.githubusercontent.com/103604871/163628873-50395fec-553d-47d4-89aa-242021deeac8.jpg)
+
 
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
@@ -226,7 +226,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 >
 > **Exemplo**:
 > 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+> ![UserFlow_TIAW](imaages/../images/persona.png)
 
 ## Wireframes
 
