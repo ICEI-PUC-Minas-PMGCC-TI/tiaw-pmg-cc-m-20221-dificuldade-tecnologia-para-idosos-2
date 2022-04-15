@@ -226,7 +226,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 >
 > **Exemplo**:
 > 
-> ![UserFlow_TIAW](imaages/../images/persona.png)
+> ![UserFlow_TIAW](imaages/../images/UserFlow_TIAW.jpg)
 
 ## Wireframes
 
