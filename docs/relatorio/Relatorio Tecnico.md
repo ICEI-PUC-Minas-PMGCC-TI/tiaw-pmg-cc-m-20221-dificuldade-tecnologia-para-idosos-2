@@ -272,6 +272,9 @@ Estes wireframes são protótipos representativos do layout das páginas do noss
 #### Tipos Para Cada Categoria
 ![TiposParaCadaCategoriaComputador](images/TiposParaCadaCategoriaComputador_TIAW.png)
 
+#### Chat Bot
+![Chatbot_TIAW](images/Chatbot_TIAW.png)
+
 ### Celular:
 
 #### Página Inicial
@@ -297,6 +300,9 @@ Estes wireframes são protótipos representativos do layout das páginas do noss
 
 #### Tipos Para Cada Categoria
 ![TiposParaCadaCategoriaCelular](images/TiposParaCadaCategoriaCelular_TIAW.png)
+
+#### Chat Bot
+![Chatbot_TIAW](images/Chatbot_TIAW.png)
 
 # Metodologia
 
