@@ -190,7 +190,7 @@ Estes wireframes são protótipos representativos do layout das páginas do noss
 #### Página De Login
 ![PáginaDeLoginComputador](images/PaginaDeLoginComputador_TIAW.png)
 
-#### Página Tutorial e "Estou com com dificuldades"
+#### Página Tutorial
 ![PáginaTutorialComputador](images/PáginaTutorialComputador_TIAW.png)
 
 #### Página de categorias gratuitas
@@ -222,7 +222,7 @@ Estes wireframes são protótipos representativos do layout das páginas do noss
 #### Página De Login
 ![PáginaDeLoginCelular](images/PáginaDeLoginCelular_TIAW.png)
 
-#### Página Tutorial e "Estou com com dificuldades"
+#### Página Tutorial
 ![PáginaTutorialCelular](images/PaginaDeTutorialCelular_TIAW.png)
 
 #### Página de categorias gratuitas
