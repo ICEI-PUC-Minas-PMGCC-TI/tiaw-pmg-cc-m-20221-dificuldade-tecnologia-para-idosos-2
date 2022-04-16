@@ -246,10 +246,16 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ### Computador:
 
-#### Pagina Inicial
-![PáginaInicialComputador](images/PáginaInicialComputador_TIAW.png) ![PáginaInicialCelular](images/PáginaInicialCelular_TIAW.png)
+#### Página Inicial
+![PáginaInicialComputador](images/PáginaInicialComputador_TIAW.png)
 
+#### Página De Registro
+![PaginaDeRegistroComputador](images/PaginaDeRegistroComputador_TIAW.png)
 
+#### Página De Login
+![PaginaDeLoginComputador](images/PaginaDeLoginComputador_TIAW.png)
+
+#### 
 
 # Metodologia
 
