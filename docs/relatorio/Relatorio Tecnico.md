@@ -244,9 +244,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
 > - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
 
-# Computador:
+### Computador:
 
-### Pagina Inicial
+#### Pagina Inicial
 ![PáginaInicialComputador](images/PáginaInicialComputador_TIAW.png) ![PáginaInicialCelular](images/PáginaInicialCelular_TIAW.png)
 
 
