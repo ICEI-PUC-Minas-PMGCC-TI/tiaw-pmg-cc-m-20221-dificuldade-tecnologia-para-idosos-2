@@ -282,7 +282,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ![PáginaDeLoginCelular](images/PáginaDeLoginCelular_TIAW.png)
 
 #### Página Tutorial e "Estou com com dificuldades"
-![PáginaTutorialCelular](images/PaginaTutorialCelular_TIAW.png)
+![PáginaTutorialCelular](images/PaginaDeTutorialCelular_TIAW.png)
 
 #### Página de categorias gratuitas
 ![PáginaDeCategoriasGratuitasCelular](images/PáginaDeCategoriasGratuitasCelular_TIAW.png)
@@ -291,7 +291,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ![PáginaDeCategoriasPremiumCelular](images/PáginaDeCategoriasPremiumCelular_TIAW.png)
 
 #### Página De Compras
-![PáginaDeComprasCelular](images/PaginaDeComprasCelular_TIAW.png)
+![PáginaDeComprasCelular](images/PáginaDeCompraCelular_TIAW.png)
 
 #### Tipos Para Cada Categoria
 ![TiposParaCadaCategoriaCelular](images/TiposParaCadaCategoriaCelular_TIAW.png)
