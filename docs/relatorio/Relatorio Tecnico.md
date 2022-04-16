@@ -266,6 +266,7 @@ https://www.figma.com/proto/WxroO44dUZI2bpzhkzRxTy/Wireframe-TIAW?node-id=456%3A
 > - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
 > - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
 > - [Tutorial Slack](https://slack.com/intl/en-br/)
+
 ## Divisão de Papéis
 
 ### O grupo dividiu entre 3 categorias seguindo a metodologia Scrum:
