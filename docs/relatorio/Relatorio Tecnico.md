@@ -299,10 +299,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 # Metodologia
 
 ......  COLOQUE AQUI O SEU TEXTO ......
-- O grupo dividiu entre 3 categorias seguindo o a metodologia Scrum:
-- Scrum Master: Pedro Corrêa Rigotto
-- Project Owner: Leandro Guido Lorenzini Santos
-- Developers: Arthur Patrocínio Neves, Marcelo Augusto Moreira, Gabriel Máximo de Castro, Igor Rodrigues de Abreu
+
 
 Ferramentas usadas: Trello, Miro, Figma
 
@@ -324,6 +321,10 @@ Ferramentas usadas: Trello, Miro, Figma
 ## Divisão de Papéis
 
 ......  COLOQUE AQUI O SEU TEXTO ......
+- O grupo dividiu entre 3 categorias seguindo o a metodologia Scrum:
+- Scrum Master: Pedro Corrêa Rigotto
+- Project Owner: Leandro Guido Lorenzini Santos
+- Developers: Arthur Patrocínio Neves, Marcelo Augusto Moreira, Gabriel Máximo de Castro, Igor Rodrigues de Abreu
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
