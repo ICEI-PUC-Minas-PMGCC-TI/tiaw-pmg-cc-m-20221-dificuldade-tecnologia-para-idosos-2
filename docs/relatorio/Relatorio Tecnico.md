@@ -84,15 +84,6 @@ Desta forma, estabeleceu-se como público-alvo desta solução os idosos entre 6
  
 # Especificações do Projeto
 
-### Nesse projeto nos focamos principalmente na acessibilidade, para isso usamos tecnicas como exemplo:
-- Fonte grande;
-- Telas limpas;
-- Botões de pedir ajuda ao longo de todo o site, que são direcionados para tutoriais que ensinaram como usar o site;
-- Chatbot, chat para cliente sanar dúvidas;
-- Imagens, Gifs, Vídeos ilustrativos ao longo dos tutoriais;
-- Divisão do site em categorias, que ajudaram o cliente a encontrar o conteudo desejado;
-- Além das ferramentas voltadas para a acessibilidade nos também monetizamos o site, ultilizando um sistem de conta gratuita e premium em que a premium ofere todos os conteudos do site, enquanto a gratuita apenas algumas ferramentas, como se fosse uma amostra grátis.
-
 Os problemas vividos pelos idosos e as soluções que encontramos foram definidos por meio de entrevistas e pesquisa de dados. Esses conhecimentos foram compilados na forma de personas e histórias de usuários. 
 
 
