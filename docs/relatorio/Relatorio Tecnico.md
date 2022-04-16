@@ -286,7 +286,7 @@ Estes wireframes são protótipos representativos do layout das páginas do noss
 #### Chat Bot
 ![Chatbot_TIAW](images/Chatbot_TIAW.png)
 
-### Protoripo interativo
+### Prototipo interativo
 https://www.figma.com/proto/WxroO44dUZI2bpzhkzRxTy/Wireframe-TIAW?node-id=456%3A37&scaling=scale-down&page-id=411%3A2&starting-point-node-id=456%3A37&show-proto-sidebar=1
 
 # Metodologia
