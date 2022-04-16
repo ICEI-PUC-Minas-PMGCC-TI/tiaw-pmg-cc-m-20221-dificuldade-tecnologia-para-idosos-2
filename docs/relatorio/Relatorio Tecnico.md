@@ -255,7 +255,46 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 #### Página De Login
 ![PaginaDeLoginComputador](images/PaginaDeLoginComputador_TIAW.png)
 
-#### 
+#### Página Tutorial e "Estou com com dificuldades"
+![PáginaTutorialComputador](images/PáginaTutorialComputador_TIAW.png)
+
+#### Página de categorias gratuitas
+![PáginaDeCategoriasGratuitasComputador](images/PáginaDeCategoriasGratuitasComputador_TIAW.png)
+
+#### Página de categorias premium
+![PáginaDeCategoriasPremiumComputador](images/PáginaDeCategoriasPremiumComputador_TIAW.png)
+
+#### Página De Compras
+![PáginaDeComprasComputador](images/PáginaDeComprasComputador.png)
+
+####Tipos Para Cada Categoria
+![TiposParaCadaCategoriaComputador](images/TiposParaCadaCategoriaComputador_TIAW.png)
+
+### Celular:
+
+#### Página Inicial
+![PáginaInicialCelular](images/PáginaInicialCelular_TIAW.png)
+
+#### Página De Registro
+![PaginaDeRegistroCelular](images/PaginaDeRegistroCelular_TIAW.png)
+
+#### Página De Login
+![PaginaDeLoginCelular](images/PaginaDeLoginCelular_TIAW.png)
+
+#### Página Tutorial e "Estou com com dificuldades"
+![PáginaTutorialCelular](images/PáginaTutorialCelular_TIAW.png)
+
+#### Página de categorias gratuitas
+![PáginaDeCategoriasGratuitasCelular](images/PáginaDeCategoriasGratuitasCelular_TIAW.png)
+
+#### Página de categorias premium
+![PáginaDeCategoriasPremiumCelular](images/PáginaDeCategoriasPremiumCelular_TIAW.png)
+
+#### Página De Compras
+![PáginaDeComprasCelular](images/PáginaDeComprasCelular_TIAW.png)
+
+####Tipos Para Cada Categoria
+![TiposParaCadaCategoriaCelular](images/TiposParaCadaCategoriaCelular_TIAW.png)
 
 # Metodologia
 
