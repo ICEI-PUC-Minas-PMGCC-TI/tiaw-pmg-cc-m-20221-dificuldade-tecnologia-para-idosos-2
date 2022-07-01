@@ -7,7 +7,6 @@ Temos como objetivo ensinar os idosos a usar as tecnologias modernas
 > - Arthur Patrocínio Neves
 > - Marcelo Augusto Moreira
 > - Gabriel Máximo de Castro
-> - Igor Rodrigues de Abreu
 > - Leandro Guido Lorenzini Santos
 > - Pedro Corrêa Rigotto
 
