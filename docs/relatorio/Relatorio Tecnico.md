@@ -1,0 +1,424 @@
+# Informações do Projeto
+`TÍTULO DO PROJETO`  
+
+Dificuldade de acesso a tecnologia para idosos
+
+`CURSO` 
+
+Ciência da Computação
+
+## Participantes
+
+> - Arthur Patrocínio Neves
+> - Marcelo Augusto Moreira
+> - Gabriel Máximo de Castro
+> - Leandro Guido Lorenzini Santos
+> - Pedro Corrêa Rigotto
+# Estrutura do Documento
+
+- [Informações do Projeto](#informações-do-projeto)
+  - [Participantes](#participantes)
+- [Estrutura do Documento](#estrutura-do-documento)
+- [Introdução](#introdução)
+  - [Problema](#problema)
+  - [Objetivos](#objetivos)
+  - [Justificativa](#justificativa)
+  - [Público-Alvo](#público-alvo)
+- [Especificações do Projeto](#especificações-do-projeto)
+  - [Personas e Mapas de Empatia](#personas-e-mapas-de-empatia)
+  - [Histórias de Usuários](#histórias-de-usuários)
+  - [Requisitos](#requisitos)
+    - [Requisitos Funcionais](#requisitos-funcionais)
+    - [Requisitos não Funcionais](#requisitos-não-funcionais)
+  - [Restrições](#restrições)
+- [Projeto de Interface](#projeto-de-interface)
+  - [User Flow](#user-flow)
+  - [Wireframes](#wireframes)
+- [Metodologia](#metodologia)
+  - [Divisão de Papéis](#divisão-de-papéis)
+  - [Ferramentas](#ferramentas)
+  - [Controle de Versão](#controle-de-versão)
+- [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
+- [Projeto da Solução](#projeto-da-solução)
+  - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+  - [Arquitetura da solução](#arquitetura-da-solução)
+- [Avaliação da Aplicação](#avaliação-da-aplicação)
+  - [Plano de Testes](#plano-de-testes)
+  - [Ferramentas de Testes (Opcional)](#ferramentas-de-testes-opcional)
+  - [Registros de Testes](#registros-de-testes)
+- [Referências](#referências)
+
+
+# Introdução
+
+## Problema
+
+> Muitos idosos hoje em dia apresentam dificuldades para usar as novas tecnologias e têm curiosidade em aprender mais sobre elas.
+Usar aplicativo do banco, acessar novas formas de entretenimento como Netflix ou Spotify, usar melhor e mais as redes sociais, entre outros. Esses são alguns exemplos de funcionalidades que a tecnologia pode proporcionar que ajudaria a vida dos idosos.
+
+
+## Objetivos
+
+> Nosso objetivo geral é ensinar os idosos a usar tecnologias modernas. 
+
+### Objetivos específicos:
+ - Ensinar os idosos a usar e configurar aparelhos celulares;
+ - Ensinar os idosos a usar redes sociais e sites de entretenimento;
+ - Ensinar os idosos a usar aplicativos de banco;
+ - Responder perguntas dos idosos usando chatbot.
+
+
+## Justificativa
+
+
+> De acordo com uma pesquisa feita pelo Sesc São Paulo e pela Fundação Perseu Abramo no começo de 2020, apenas 19% dos idosos fazem uso efetivo da internet, 28% já usaram um aplicativo e 38% já utilizaram redes sociais. No mundo de hoje a internet é essencial, e as entrevistas que nós fizemos mostraram que os idosos têm vontade de aprender a melhor usar a tecnologia. Por isso tivemos a ideia de montar um site que levaria ao idoso a informação que ele mais precisa para aprender a fazer esse uso, de maneira acessível e fácil de entender. 
+
+
+## Público-Alvo
+
+> Embora todas as pessoas possam se beneficiar dos ensinamentos do site, o foco deste trabalho está no público idoso, que têm dificuldades em usar aparelhos celulares e sites que poderiam facilitar o seu dia a dia.
+
+> Desta forma, estabeleceu-se como público-alvo desta solução os idosos entre 65 e 80 anos que têm um conhecimento básico no uso de aparelhos eletrônicos e sentem necessidade ou curiosidade de aprender mais sobre a tecnologia mas não possuem meios para aprender a melhor utilizá-la. 
+
+ 
+# Especificações do Projeto
+
+> Os problemas vividos pelos idosos e as soluções que encontramos foram definidos por meio de entrevistas e pesquisa de dados. Esses conhecimentos foram compilados na forma de personas e histórias de usuários.
+
+
+## Personas e Mapas de Empatia
+
+> Essas personas representam potenciais clientes que fazem parte de nosso público alvo. 
+
+### Gertrudes
+![PersonaGertrudes](imaages/../images/PersonaGertrudes_TIAW.jpg)
+![MapaEmpatiaGertrudes](imaages/../images/MapaEmpatiaGertrudes_TIAW.jpg)
+
+### Clotilde
+![PersonaClotilde](imaages/../images/PersonaClotilde_TIAW.jpg)
+![MapaEmpatiaClotilde](imaages/../images/MapaEmpatiaClotilde_TIAW.jpg)
+
+### Paulo
+![PersonaPaulo](imaages/../images/PersonaPaulo_TIAW.jpg)
+![MapaEmpatiaPaulo](imaages/../images/MapaEmpatiaPaulo_TIAW.jpg)
+
+## Histórias de Usuários
+
+> Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|Gertrudes| Auxílio em utilizar a tecnologia. | Ter mais comodidade no seu dia-a-dia.|
+|Gertrudes| Diminuir dificuldades nas redes sociais. | Apesar de conseguir usar algumas redes sociais, ainda tem dificuldade com várias coisas, então gostaria de aprender mais. |
+|Gertrudes| Explorar novas funções nas redes sociais.| Buscar novas formas de entretenimento,  além de conseguir se comunicar melhor com sua família.|
+|Gertrudes| Diminuir a dependência da ajuda de outras pessoas.| Como não mora com parentes jovens, gostaria de ter sua independência no uso de tecnologia.|
+|Clotilde | Auxílio para não cair em golpes na internet.          | Para não ter prejuízo.|
+|Clotilde | Deseja saber como utilizar o aplicativo do banco.               | Para não ter que enfrentar fila na hora de pagar. |
+|Clotilde | Assistir filmes, ouvir músicas.          | Acesso a mais formas de lazer, que são rápidas e sem precisar sair do conforto de casa. |
+|Clotilde | Fazer compras pela internet (descobrir o site que terá o tipo de produto que ela deseja). | Facilitar a vida, não ter que sair de casa sempre para fazer compras, maior conforto. |
+|Paulo    | Deseja descobrir novos meios de assistir shows e filmes e ouvir música.           | Ter acesso a formas de lazer, de maneira mais rápida e prática.|
+|Paulo    | Quer aprender a usar aplicativos complexos como aplicativos de banco | Facilitar sua vida, não ter que sair de casa para resolver coisas que podem ser feitas no conforto de casa pelo celular. |
+|Paulo    | Quer aprender a mudar configurações em seu celular  | Diminuir a dependência em outras pessoas para tarefas básicas.|
+
+## Requisitos
+
+> As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+
+### Requisitos Funcionais
+
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+|RF-01| O site deve ter uma forma de feedback. | MÉDIA | 
+|RF-02| O site deve permitir visualizar as informações de contatos do mantenedor do site. | MÉDIA  |
+|RF-03| O site deve permitir o compartilhamento de tutoriais. | BAIXA |
+|RF-04| O site deve ter um sistema de categorias.  | ALTA |
+|RF-05| O site deve conter tutoriais de uso da tecnologia. | ALTA |
+|RF-06| O site deve ter versão premium e gratuita. | ALTA |
+|RF-07| O site deve ter tutoriais de uso de suas próprias funções. | ALTA |
+|RF-08| Os tutoriais devem conter vídeos.  | ALTA |
+|RF-09| O site deve permitir ao usuário a compra de tutoriais avulsos.| MÉDIA |
+
+### Requisitos não Funcionais
+
+|ID     | Descrição do Requisito  |Prioridade |
+|-------|-------------------------|----|
+|RNF-01| O site deve ser limpo, não ter muitas informações na tela. | MÉDIA | 
+|RNF-02| O site deve ser responsivo permitindo a visualização em um celular de forma adequada. |  ALTA | 
+|RNF-03| O site deve ser facilmente legível. |  MÉDIA | 
+|RNF-04| As informações devem ser claras, objetivas e completas. |  ALTA | 
+|RNF-05| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku). |  ALTA | 
+|RNF-06| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge). |  ALTA | 
+|RNF-07| O site deve ter bom nível de contraste entre os elementos da tela em conformidade. |  MÉDIA | 
+|RNF-08| O sistema deve atender às normas legais de direitos autorais. |  MÉDIA | 
+
+
+
+## Restrições
+
+O projeto está restrito pelos itens apresentados na tabela a seguir.
+
+|ID| Restrição                                             |
+|--|-------------------------------------------------------|
+|01| O projeto deverá ser entregue até o final do semestre letivo. |
+|02| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend. |
+|03| A equipe não pode subcontratar o desenvolvimento do trabalho. |
+|04| Não pode ser desenvolvido um módulo de backend. |
+
+# Projeto de Interface
+
+> A interface desse site foi desenvolvida com o objetivo de maximizar a usabilidade e o entendimento das funções do site, tendo em mente que o nosso público alvo é composto por idosos que têm dificuldade em utilizar sites. Todas as escolhas foram feitas com o intuito de deixar o site mais limpo e fácil de usar para alguém que não conheça as funções normais de um site, como a escolha de incluir um chatbot para responder dúvidas e a existência de links para páginas que explicam o uso básico do site em todas as páginas mais complexas.
+
+## User Flow
+
+![UserFlowUsuario](imaages/../images/user_flow.png)
+![UserFlowAdmin](imaages/../images/user_flow_adm.png)
+
+## Wireframes
+
+Estes wireframes são protótipos representativos do layout das páginas do nosso site. Abaixo estão dispostos os wireframes das páginas em suas versões mobile e desktop.
+
+### Computador:
+
+#### Página Inicial
+![PáginaInicialComputador](images/Wireframe/w_pagina-Home.JPG)
+> Tela que abrange todas as visualizações iniciais do site.
+
+#### Página de Compra e Registro
+![PáginaDeRegistroComputador](images/Wireframe/w_pagina-de-registro.JPG)
+> Página que permite a criação de novos usuários premium.
+
+#### Página de Login
+![PáginaDeLoginComputador](images/Wireframe/w_pagina-de-login.JPG)
+> Página que valida o usuário, para utilizar os recursos da conta premium. 
+
+#### Página de Tutorial
+![PáginaTutorialComputador](images/Wireframe/w_pagina-tutorial.JPG)
+> A página de tutorial mostra um vídeo e um texto de um tutorial presente no banco de dados.
+
+#### Página de Tutoriais Gratuitos
+![PáginaDeCategoriasGratuitasComputador](images/Wireframe/w_pagina-categoria-gratuita.JPG)
+> A página mostra os tutoriais que podem ser acessados sem uma conta (acesso gratuito).
+
+#### Página com Categorias Premium
+![PáginaDeCategoriasPremiumComputador](images/Wireframe/w_pagina-categoria-premium.JPG)
+> A página mostra as categorias dos tutoriais que podem ser acessados com uma conta premium.
+
+#### Página de Tutoriais Premium
+![TiposParaCadaCategoriaComputador](images/Wireframe/w_pagina-tipos-para-cada-categoria.JPG)
+> Página que exibe botões de tipos para cada categoria dos tutoriais.
+
+#### Página de Contato
+![PáginaDeContatoComputador](images/Wireframe/w_pagina-contato.JPG)
+> Tela que mostra o telefone e e-mail para contato.
+
+#### Página de Login de Administradores
+![PáginaDeLoginDeAdministradores](images/Wireframe/w_pagina-login-administradores.JPG)
+> Página que valida o usuário de administrador, para utilizar recursos de administrador. 
+
+#### Página inicial de Administração
+![PágiaInicialDeAdministração](images/Wireframe/w_pagina-inicial-administra%C3%A7%C3%A3o.JPG)
+> Página que exibe todos os usuários administradores e permite a sua criação, edição e remoção.
+
+#### Página de Cadastro de Tutorial
+![PáginaDeCadastroDeTutorial](images/Wireframe/w_pagina-cadastro-tutorial.JPG)
+> Página que exibe todos os tutoriais e permite a criação, edição e remoção.
+
+#### Página de Gerenciamento de Usuários
+![PáginaDeGerenciamentoDeUsuários](images/Wireframe/w_pagina-gerenciamento-usuario.JPG)
+> Página que permite a edição e remoção de usuários premium.
+
+#### Página de Manutenção de Categorias
+![PáginadeManutençãodeCategorias](images/Wireframe/w_pagina-manuten%C3%A7%C3%A3o-categorias.JPG)
+> A página permite a alteração, adição e remoção de categorias.
+
+### Celular:
+
+#### Página Inicial
+![PáginaInicialComputador](images/Wireframe/w_pagina-Home-celular.JPG)
+
+#### Página de Compra e Registro
+![PáginaDeRegistroComputador](images/Wireframe/w_pagina-de-registro-celular.JPG)
+
+#### Página de Login
+![PáginaDeLoginComputador](images/Wireframe/w_pagina-de-login-celular.JPG)
+
+#### Página de Tutorial
+![PáginaTutorialComputador](images/Wireframe/w_pagina-tutorial-celular.JPG)
+
+#### Página de Tutoriais Gratuitos
+![PáginaDeCategoriasGratuitasComputador](images/Wireframe/w_pagina-categoria-gratuita-celular.JPG)
+
+#### Página com Categorias Premium
+![PáginaDeCategoriasPremiumComputador](images/Wireframe/w_pagina-categoria-premium-celular.JPG)
+
+#### Página de Tutoriais Premium
+![TiposParaCadaCategoriaComputador](images/Wireframe/w_pagina-tipos-para-cada-categoria-celular.JPG)
+
+#### Página de Contato
+![PáginaDeContatoComputador](images/Wireframe/w_pagina-contato-celular.JPG)
+
+### Prototipo interativo
+https://www.figma.com/proto/WxroO44dUZI2bpzhkzRxTy/Wireframe-TIAW?node-id=456%3A37&scaling=min-zoom&page-id=411%3A2&starting-point-node-id=456%3A37&show-proto-sidebar=1
+
+# Metodologia
+
+> A metodologia usada foi baseada nos processos de Design Thinking e Scrum. Nos dividimos entre scrum master, product owner, e desenvolvedores. Compilamos nossos conhecimentos em matriz CSD e mapa de stakeholders, fizemos entrevistas para definir o problema que queremos resolver, compilamos o conhecimento adquirido com as entrevistas em personas do nosso público alvo, e exploramos as possíveis soluções em processo de design thinking composto por brainstorming e detalhamento das ideias. Após decidirmos quais ideias seriam o nosso foco, começamos a projetar o site com user flow e wireframes, e documentamos todo esse processo.
+
+## Divisão de Papéis
+
+### O grupo dividiu entre 3 categorias seguindo a metodologia Scrum:
+- Scrum Master: Pedro Corrêa Rigotto
+- Project Owner: Leandro Guido Lorenzini Santos
+- Developers: Arthur Patrocínio Neves, Marcelo Augusto Moreira, Gabriel Máximo de Castro
+
+## Ferramentas
+
+| Ambiente  | Plataforma              |Link de Acesso |
+|-----------|-------------------------|---------------|
+|Processo de Design Thinking  | Miro |  https://miro.com/app/board/uXjVOB6EAyE=/ | 
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-dificuldade-tecnologia-para-idosos-2/tree/master/codigo/Site%20idosos%20-%20TIAW | 
+|UserFlow  | Miro |  https://miro.com/app/board/uXjVOD0ok5U=/ | 
+|Protótipo Interativo| Figma | https://www.figma.com/proto/WxroO44dUZI2bpzhkzRxTy/Wireframe-TIAW?node-id=456%3A37&scaling=min-zoom&page-id=411%3A2&starting-point-node-id=456%3A37&show-proto-sidebar=1 | 
+|Pasta de arquivos | Google Drive | https://drive.google.com/drive/u/0/folders/1marKWIjC55KoiCpo3A-xOJ6KfAd2coiH | 
+|Kanban | Trello | https://trello.com/invite/b/5cD4kkFF/b54b487cea6ad140b22307a1eb07bfd3/kanban-tiaw-idosos | 
+
+# Projeto da Solução
+
+> O site foi planejado e criado para apresentar uma funcionalidade simples para os idosos conseguirem usar facilmente. A navegação é feita por botões bem visíveis e evidentes, e as páginas contam com um botão de ajuda que contém um tutorial de uso do proprio site, dessa forma, os idosos, em grande parte leigos em tecnologia, terão poucas dificuldades ao utilizar o nosso site.
+
+## Tecnologias Utilizadas
+
+> As tecnologias que foram utilizadas para o desenvolvimento do projeto foram as linguagens HTML, CSS e JavaScript, o framework Bootstrap, IDE Visual Studio Code, Google Drive para gerenciamento de documentos, Replit para hospedagem, Figma para criação de wireframes, Miro para documentação do processo de design thinking, Trello para kanban, Discord para comunicação, e Google Documents para edição compartilhada de documentos.
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
+> problema, ou seja, implementar a sua solução. Liste todas as
+> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
+> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+> Apresente também uma figura explicando como as tecnologias estão
+> relacionadas ou como uma interação do usuário com o sistema vai ser
+> conduzida, por onde ela passa até retornar uma resposta ao usuário.
+> 
+> Inclua os diagramas de User Flow, esboços criados pelo grupo
+> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
+> item textualmente comentando e complementando o que está apresentado
+> nas imagens.
+
+## Arquitetura da solução
+
+> Os componentes que fazem parte da solução são apresentados na Figura que se segue.
+> 
+> **Diagrama de Componentes**:
+> 
+> ![DiagramaDaArquitetura](images/arqsulucao.png)
+
+> A solução implementada conta com os seguintes módulos:
+> 
+> - Navegador - Interface básica do sistema 
+> - Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
+> - Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
+>  - db_categoria - banco de dados com as categorias dos tutoriais
+>  - db_tutorial - banco de dados com os tutoriais
+>  - db_admin - banco de dados com as contas administradores
+>  - db_usu - banco de dados com as contas de usuarios
+> - Session Storage - armazenamento mantido no Navegador até expirar a sessão da página, onde são implementados bancos de dados b aseados em JSON. São eles: 
+>  - usuarioCorrente - conta que está logada no momento
+
+> ### Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
+> O site utiliza a plataforma Replit como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL: 
+> https://tiaw-dificuldade-de-acesso-a-tecnologia-por-idosos.pedrocorrea10.repl.co/
+
+
+# Avaliação da Aplicação
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> Apresente os cenários de testes utilizados na realização dos testes da
+> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
+> sendo satisfeitos.
+
+## Plano de Testes de Software
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+| Caso de Teste |  |
+|---------------|----------------------------|
+| Requisitos Associados |  |
+| Objetivo do Teste |  |
+| Passos |  |
+| Critérios de Êxito |  |
+
+| Caso de Teste | CT01 - Visualizar tutorial |
+|---------------|----------------------------|
+| Requisitos Associados | RF-05 - O site deve conter tutoriais de uso da tecnologia, RF-07 - O site deve ter tutoriais de uso de suas próprias funções, RF-08 - Os tutoriais devem conter vídeos. |
+| Objetivo do Teste | Verificar se a carga de tutoriais está acontecendo corretamente |
+| Passos | 1) Acessar o Navegador, 2) Informar o endereço do Site, 3) Navegar até uma página com links dos tutoriais, 4) Clicar em um tutorial, 5) Verificar os dados dispostos. |
+| Critérios de Êxito | A página deve exibir o título do tutorial, um vídeo de tutorial, e um texto vindos do banco de dados do site. |
+
+| Caso de Teste | CT02 - Cadastrar, alterar e excluir usuário administrador |
+|---------------|----------------------------|
+| Requisitos Associados | RF-09 - O site deve ter um sistema de administração para controlar e adicionar conteúdos e manipular usuários. |
+| Objetivo do Teste | Verificar se a criação, alteração e remoção de administradores está funcionando |
+| Passos | 1) Acessar o Navegador <br> 2) Informar o endereço do Site <br> 3) Navegar até a página de login de administradores <br> 4) Entrar em uma conta de administrador (pode ser usado usuário admin e senha admin) <br> 5) Informar novo nome de usuário e senha <br> 6) Clicar no botão Criar <br> 7) Clicar em um item da lista de administradores <br> 8) Editar as informações nos campos de entrada <br> 9) Clicar no botão Alterar <br> 10) Clicar em um item da lista de administradores <br> 11) Clicar no botão Excluir |
+| Critérios de Êxito | A página deve exibir os usuários existentes, criar um novo usuário, alterar e excluir usuários existentes com sucesso. |
+
+> Enumere quais cenários de testes foram selecionados para teste. Neste
+> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
+> de usuários que foi escolhido para participar do teste e as
+> ferramentas utilizadas.
+> 
+> **Links Úteis**:
+> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
+> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
+> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+
+## Registros de Testes de Software
+| Caso de Teste | Resultados |
+|---------------|------------|
+|CT01 - Visualizar tutorial| Sucesso |
+|CT02 - Cadastrar, alterar e excluir usuário administrador| Sucesso | 
+|CT03 - Cadastrar, alterar e excluir usuário premium| Sucesso |
+|CT04 - Visualizar página com categorias premium e testar botões| Sucesso |
+|CT05 - Visualizar página com categorias premium e testar botões| Sucesso |
+|CT06 - Visualizar página com os tipos de tutoriais e testar botões| Sucesso |
+|CT07 - Cadastrar, alterar e excluir categoria| Sucesso |
+|CT08 - Cadastrar, alterar e excluir tutorial| Sucesso |
+|CT09 - Login de usuário| Sucesso |
+|CT10 - Login de administradores| Sucesso |
+
+
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
+> fracos identificados na solução. Comente como o grupo pretende atacar
+> esses pontos nas próximas iterações. Apresente as falhas detectadas e
+> as melhorias geradas a partir dos resultados obtidos nos testes.
+
+## Plano de Testes de Usabilidade
+
+> O planejamento dos testes de usabilidade a serem realizados com usuários são descritos a seguir.
+> 
+> Objetivos: Descobrir quais partes do site são difíceis de usar e o que causa dúvidas no idoso. Verificar se o usuário consegue criar sua conta. Verificar se o usuário consegue fazer login. Verificar se o usuário consegue chegar à página do tutorial de seu interesse.
+> 
+> Detalhes do público de testes: Idosos acima de 60 anos.
+> 
+> Roteiro das tarefas:
+> Acessar a página principal
+> Acessar um tutorial gratuito
+> Acessar a página de criar uma conta
+> Criar uma conta
+> Fazer login
+> Acessar o tutorial de seu interesse
+> Sair da conta
+
+
+## Registros de Testes de Usabilidade
+
+# Referências
+
+> - Littlefield, A. Guia da metodologia ágil e scrum para iniciantes. 2016. Disponível em: [https://blog.trello.com/br/scrum-metodologia-agil](https://blog.trello.com/br/scrum-metodologia-agil). Acessado em 15/04/2020.
+> - Jovana, S. Referências Bibliográficas da ABNT: qual é o padrão e como fazer a referência bibliográfica em um artigo? 2019. Disponível em: [https://rockcontent.com/br/talent-blog/referencia-bibliografica-abnt/](https://rockcontent.com/br/talent-blog/referencia-bibliografica-abnt/). Acessado em 02/07/2022.
+> - Bocchini, B. Pesquisa mostra exclusão de idosos do mundo digital e da escrita. 2020. Disponível em: [https://agenciabrasil.ebc.com.br/geral/noticia/2020-08/pesquisa-mostra-exclusao-de-idosos-do-mundo-digital-e-da-escrita](https://agenciabrasil.ebc.com.br/geral/noticia/2020-08/pesquisa-mostra-exclusao-de-idosos-do-mundo-digital-e-da-escrita). Acessado em: 15/04/2022.
+
