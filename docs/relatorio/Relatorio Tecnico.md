@@ -436,6 +436,8 @@ Roteiro das tarefas:
 ## Registros de Testes de Usabilidade
 
 Os resultados obtidos nos testes de usabilidade realizados são descritos na Tabela a seguir.
+
+|  teste        | teste |
 |---------------|-----|
 | Idade         | 72  |
 | Gênero        | Feminino |
