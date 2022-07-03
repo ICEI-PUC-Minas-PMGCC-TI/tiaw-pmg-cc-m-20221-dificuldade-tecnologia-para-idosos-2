@@ -64,8 +64,7 @@ Nosso objetivo geral é ensinar os idosos a usar tecnologias modernas.
 ### Objetivos específicos:
  - Ensinar os idosos a usar e configurar aparelhos celulares;
  - Ensinar os idosos a usar redes sociais e sites de entretenimento;
- - Ensinar os idosos a usar aplicativos de banco;
- - Responder perguntas dos idosos usando chatbot.
+ - Ensinar os idosos a usar aplicativos de banco.
 
 
 ## Justificativa
