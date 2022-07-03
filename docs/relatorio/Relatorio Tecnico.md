@@ -437,7 +437,7 @@ Roteiro das tarefas:
 
 Os resultados obtidos nos testes de usabilidade realizados são descritos na Tabela a seguir.
 
-|  teste-01 |         |
+|  teste-01          |
 |-----------|---------|
 | Idade         | 72  |
 | Gênero        | Feminino |
