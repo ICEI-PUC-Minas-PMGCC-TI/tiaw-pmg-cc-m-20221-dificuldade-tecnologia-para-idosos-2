@@ -17,4 +17,12 @@ Temos como objetivo ensinar os idosos a usar as tecnologias modernas
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+O site pode ser acessado via internet pelo serviço Replit, ou o código pode ser executado manualmente utilizando os arquivos disponíveis neste repositório do GitHub. 
+
+Para acessar como um usuário qualquer: https://tiaw-dificuldade-de-acesso-a-tecnologia-por-idosos.pedrocorrea10.repl.co/inicio-login/inicio.html
+
+Para acessar a parte administrativa: https://tiaw-dificuldade-de-acesso-a-tecnologia-por-idosos.pedrocorrea10.repl.co/loginAdm/LoginAdm.html
+
+Acesso dos códigos no GitHub: https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-dificuldade-tecnologia-para-idosos-2/tree/master/codigo/Site%20idosos%20-%20TIAW
+
+Para acessar o site através dos códigos baixados recomenda-se abrir a pasta de arquivo pelo Visual Studio Code e utilizar a extensão Live Server para abrir um servidor local onde é possível executar o código. A página inicial para usuários é o arquivo inicio-login/inicio.html e para administradores é o arquivo loginAdm/LoginAdm.html.
